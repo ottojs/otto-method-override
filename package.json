@@ -1,6 +1,6 @@
 {
   "name" : "otto-method-override",
-  "version" : "0.0.0",
+  "version" : "0.0.1",
   "repository" : "https://github.com/ottojs/otto-method-override.git",
   "main" : "./lib/index.js",
   "dependencies" : {
